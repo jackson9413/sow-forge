@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>sow-forge — Statement of Work reviewer</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <header>
+    <h1>📑 sow-forge</h1>
+    <p class="tagline">
+      Local-first Statement of Work reviewer for freelancers &amp; consultants.
+      Paste a SOW, get a 0–100 client-friendliness score, red flags across ~35 clause
+      patterns, missing-clause detection, and ready-to-paste negotiation language.
+    </p>
+    <p class="meta">
+      No API keys. No LLM. No telemetry. Just paste + analyze.
+      <a href="/sample">Try the sample SOW →</a>
+    </p>
+  </header>
+
+  <main>
+    <section class="card" id="input-card">
+      <h2>1. Paste the SOW</h2>
+      <p class="hint">
+          Drop the link or upload button. Or paste the full SOW text below — paragraphs,
+          clauses, headers, the whole document.
+        </p>
+      <textarea id="sow-text" rows="14" placeholder="Paste the SOW text here..."></textarea>
+      <div class="controls">
+        <label class="checkbox">
+          <input type="checkbox" id="save-session" checked />
+          Save to session log
+        </label>
+        <button id="analyze-btn" class="primary">Analyze SOW</button>
+      </div>
+    </section>
+
+    <section class="card" id="results-card" hidden>
+      <h2>2. Review</h2>
+      <div id="results-container"></div>
+    </section>
+
+    <section class="card" id="history-card">
+      <h2>3. Recent SOWs (this device)</h2>
+      <p class="hint">
+        sow-forge remembers the SOWs you've analyzed (with optional rating + notes).
+        Past analyses let you see how different clients treat freelancers differently.
+      </p>
+      <div id="history-container">
+        <p class="muted">Loading...</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>
+      sow-forge · Flask + SQLite + vanilla JS ·
+      <a href="https://github.com/jackson9413/sow-forge">github.com/jackson9413/sow-forge</a>
+    </p>
+    <p class="muted">
+      This tool is informational only and is not legal advice. For material
+      engagements, consult an attorney licensed in your jurisdiction.
+    </p>
+  </footer>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

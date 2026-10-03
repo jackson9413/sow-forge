@@ -1,0 +1,56 @@
+STATEMENT OF WORK
+
+This Statement of Work ("SOW") is entered into as of October 1, 2026, by and between Acme Widgets Inc. ("Client") and Freelance Consulting LLC ("Contractor").
+
+1. SCOPE OF SERVICES
+
+Contractor shall assist with the development of a customer dashboard, as needed, including reasonable related work. Contractor shall provide deliverables per the schedule below:
+
+Deliverable #1: Design mockups (wireframes + visual design)
+Deliverable #2: Front-end implementation (React app, responsive)
+Deliverable #3: Back-end API integration (Node.js, deployed alongside the dashboard)
+Deliverable #4: User testing report
+
+2. FEES AND PAYMENT
+
+Total project fee: $48,000. Payment terms are net 60 days from invoice date. No deposit is required. Payment is subject to Client acceptance of the corresponding deliverable. A kill fee of $1,500 applies if Client terminates the engagement.
+
+3. INTELLECTUAL PROPERTY
+
+Contractor hereby assigns to Client all right, title, and interest in any Work Product, including any pre-existing tools or libraries used. The Work Product shall be deemed a work made for hire under 17 U.S.C. § 101. Contractor waives all moral rights.
+
+4. CONFIDENTIALITY
+
+Each party shall hold the other party's Confidential Information in strict confidence in perpetuity. Contractor agrees that disclosure of any details of this engagement, including via portfolio or case study, constitutes a breach.
+
+5. INDEMNIFICATION
+
+Contractor shall indemnify, defend, and hold harmless Client from any and all claims, damages, losses, and expenses (including attorneys' fees) arising from or related to this engagement, without limitation. Contractor's indemnification obligations shall not be subject to the liability cap set forth herein.
+
+6. LIABILITY
+
+Contractor's liability under this Agreement shall be unlimited with respect to claims arising from Contractor's breach of confidentiality or IP obligations. For all other claims, Contractor's aggregate liability shall be capped at $5,000.
+
+7. TERM AND TERMINATION
+
+This Agreement shall commence on the Effective Date and shall continue for 18 months, automatically renewing for successive one-year terms unless either party provides 90 days' notice of non-renewal. Either party may terminate for cause upon material breach with 30 days' notice.
+
+8. NON-COMPETE / NON-SOLICIT
+
+During the Term and for 24 months thereafter, Contractor shall not provide substantially similar services to any direct competitor of Client, nor solicit any Client employee, contractor, or customer.
+
+9. ACCEPTANCE
+
+Client shall have a reasonable opportunity to review and provide written acceptance of each deliverable. Acceptance shall be at Client's sole discretion.
+
+10. FORCE MAJEURE
+
+Neither party shall be liable for delays caused by natural disasters.
+
+11. GOVERNING LAW AND VENUE
+
+This Agreement shall be governed by the laws of the State of Delaware. Venue shall be in the state and federal courts located in Wilmington, Delaware.
+
+12. ENTIRE AGREEMENT
+
+This Agreement, together with its Exhibits, constitutes the entire agreement between the parties.

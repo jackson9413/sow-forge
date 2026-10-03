@@ -1,0 +1,58 @@
+STATEMENT OF WORK
+
+This Statement of Work ("SOW") is entered into as of October 1, 2026, by and between Acme Widgets Inc. ("Client") and Freelance Consulting LLC ("Contractor").
+
+1. SCOPE OF SERVICES
+
+Contractor shall provide the following Deliverables:
+
+Deliverable #1: Design mockups (wireframes + visual design)
+Deliverable #2: Front-end implementation (React app, responsive)
+Deliverable #3: Back-end API integration (Node.js, deployed alongside the dashboard)
+Deliverable #4: User testing report
+
+Each Deliverable includes up to two (2) rounds of revisions. Additional revisions are billed at Contractor's hourly rate. Any work outside Exhibit A is a Change Order requiring written authorization from both parties.
+
+3. FEES AND PAYMENT
+
+Total project fee: $48,000. A non-refundable deposit of 50% is due at signing. The remaining 50% is invoiced in milestone payments. Payment terms are net 15 days from invoice date. Invoices unpaid more than 15 days past due shall accrue interest at 1.5% per month. A kill fee of 50% of the next milestone applies if Client terminates after kickoff, or 25% of total fee if cancelled before kickoff.
+
+3. INTELLECTUAL PROPERTY
+
+Contractor assigns to Client all right, title, and interest in Work Product specifically created for this engagement, excluding Contractor's pre-existing tools, libraries, and methodologies, which are licensed to Client on a non-exclusive, perpetual, royalty-free basis. Notwithstanding any confidentiality obligation, Contractor may reference the engagement and identify the Client by name in Contractor's portfolio and case studies.
+
+4. CONFIDENTIALITY
+
+Each party shall hold the other party's Confidential Information in confidence for 3 years following termination of this Agreement. Confidential Information does not include information that is publicly available, independently developed, or required to be disclosed by law.
+
+5. INDEMNIFICATION
+
+Each party shall indemnify the other against third-party claims arising from its own gross negligence or willful misconduct, subject to the liability cap below.
+
+6. LIABILITY
+
+Each party's aggregate liability under this Agreement shall be capped at the greater of (a) the fees paid in the 12 months preceding the claim, or (b) USD $50,000. EXCEPT AS EXPRESSLY SET FORTH HEREIN, NEITHER PARTY MAKES ANY WARRANTIES. Contractor warrants the Work Product will perform substantially as specified for 90 days post-acceptance.
+
+7. TERM AND TERMINATION
+
+This Agreement shall commence on the Effective Date and continue for 6 months. Either party may terminate for any reason upon 30 days' written notice. Either party may terminate for cause upon uncured material breach with 15 days' notice.
+
+8. NON-SOLICITATION
+
+For 12 months following termination, neither party shall solicit the other party's direct clients or employees. This restriction does not apply to general advertising or candidates who initiate contact independently.
+
+9. ACCEPTANCE
+
+Client shall have 10 business days from delivery to provide written acceptance or rejection. Failure to respond shall constitute acceptance.
+
+10. FORCE MAJEURE
+
+Neither party shall be liable for delays caused by acts of God, natural disasters, pandemics, epidemics, supply-chain disruption, or acts of government.
+
+11. GOVERNING LAW AND VENUE
+
+This Agreement shall be governed by the laws of the State of Illinois. Venue shall be in the state and federal courts located in Chicago, Illinois. In any dispute, the prevailing party shall recover its reasonable attorneys' fees and costs.
+
+12. ENTIRE AGREEMENT
+
+This Agreement, together with its Exhibits, constitutes the entire agreement between the parties and supersedes all prior negotiations. Amendments require written signature of both parties.
